@@ -225,12 +225,12 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/tr61x2.jpg';
-    const imgs = 'https://files.catbox.moe/7koumg.jpg';
+    const img = 'https://files.catbox.moe/w13n3e.jpg';
+    const imgs = 'https://files.catbox.moe/52dotx.jpg';
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🏹 JEEPERS CREEPER-XMD 🏹*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🏹 Name@lil.christian 🏹*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
@@ -259,20 +259,20 @@ ezra({
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/tr61x2.jpg" },
+            image: { url: "https://files.catbox.moe/w13n3e.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363366284524544@newsletter",
-                    newsletterName: "JEEPERD CREEPER-XMD",
+                    newsletterName: "Name@lil.christian",
                     serverMessageId: -1
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "🏹 JEEPERS CREEPER XMD🏹",
+                    title: "🏹 Name@lil.christian 🏹",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/7koumg.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/52dotx.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true

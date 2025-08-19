@@ -6,7 +6,7 @@ const ytSearch = require("yt-search");
 const conf = require(__dirname + "/../set");
 ezra({
   'nomCom': "play3",
-  'aliases': ["song3", "playdoc3", "audio3", "mp3"],
+  'aliases': ["song", "playdoc", "audio", "mp3"],
   'categorie': "sir cheruiyot-Search",
   'reaction': '🎸'
 }, async (_0x52adfd, _0x3169bc, _0x3f281f) => {
@@ -79,7 +79,7 @@ ezra({
       'audio': {
         'url': _0x43e884
       },
-      'mimetype': "audio3/mpeg3",
+      'mimetype': "audio/mpeg3",
       'contextInfo': {
         'externalAdReply': {
           'title': _0x41136f.title || "jeepers creeper-xmd Audio Download",
@@ -94,7 +94,7 @@ ezra({
       'document': {
         'url': _0x43e884
       },
-      'mimetype': "audio3/mpeg3",
+      'mimetype': "audio/mpeg",
       'fileName': _0x41136f.title.replace(/[^\w\s]/gi, '') + ".mp3" || "audio.mp3",
       'contextInfo': {
         'externalAdReply': {

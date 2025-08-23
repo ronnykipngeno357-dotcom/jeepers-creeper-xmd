@@ -5,7 +5,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper+xmd;released+on+3th+August;by+sir+bravin;made+in+kenya🌎" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper+xmd;released+on+3th+August;by+ronny+ronxwel;made+in+kenya🌎" alt="Typing Animation">
 
 ## Hi there 👋
 <p align="center">
@@ -17,7 +17,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🌹🌹🌹sir+bravin+jeeper+creeper+xmd+bot❣️❣️❣️" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🌹🌹🌹ronny+ronxwel+jeeper+creeper+xmd+bot❣️❣️❣️" alt="Typing Animation">
 
 </h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=pair+site" alt="Typing SVG" /></a>
@@ -46,8 +46,8 @@
 # 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  <a href="https://whatsapp.com/channel/0029Vb64ux5G8l5DILA77C2r">
+    <img src="https://img.shields.io/badge/Join-https://whatsapp.com/channel/0029Vb64ux5G8l5DILA77C2r badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
    <p align="center">
@@ -57,7 +57,7 @@
 ##
 - *jeeper creeper xmd is not made by WhatsApp Inc. Sometimes or misusing the bot might ban your WhatsApp account!*
 - *In that case, I'm not responsible for banning your account.*
-- *sir bravin have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
+- *ronxwel have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
   
   #### `TOTAL PROFILE VIEWS 🧚```                     
    

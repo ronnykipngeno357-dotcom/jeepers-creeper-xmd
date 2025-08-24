@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>sir bravin</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      font-family: Arial, sans-serif;
+      color: #ccc;
+      text-align: center;
+    }
+    header {
+      padding: 10px;
+      font-size: 1.5em;
+      color: #3cf;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      padding: 20px;
+    }
+    .card {
+      background: #111;
+      padding: 20px;
+      border-radius: 10px;
+      border: 1px solid #222;
+    }
+    .card h3 {
+      margin: 0 0 10px 0;
+      font-size: 1.1em;
+      color: #9cf;
+    }
+    .card p {
+      font-size: 0.9em;
+      color: #6f6;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 0.8em;
+      color: #6f6;
+    }
+    .player {
+      margin-top: 30px;
+      background: #111;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+    }
+    .player button {
+      background: #222;
+      color: #fff;
+      border: none;
+      padding: 8px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>sir bravin</header>
+
+  <div class="grid">
+    <div class="card">
+      <h3>PAIR CODE</h3>
+      <p>Connect to WhatsApp by pairing your code</p>
+    </div>
+    <div class="card">
+      <h3>QR CODE</h3>
+      <p>Alternative connection with scanning your device</p>
+    </div>
+    <div class="card">
+      <
